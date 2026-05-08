@@ -1,0 +1,39 @@
+# gradle
+.gradle/
+.gradle-cache/
+build/
+out/
+classes/
+
+# fabric loom
+.loom/
+
+# fabric run
+run/
+logs/
+crash-reports/
+
+# eclipse
+*.launch
+
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+*.DS_Store
+
+# java
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
